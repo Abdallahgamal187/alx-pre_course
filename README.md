@@ -1,2 +1,1 @@
-My first readme
-my second test
+gemy number 1
